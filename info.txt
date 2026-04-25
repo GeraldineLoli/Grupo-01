@@ -1,0 +1,1 @@
+En la clase de hoy, aprendimos acerca de los repositorios remotos, los comandos de clone, push y pull, github como un servicio que brinda repositorios remotos, los respaldos seguros y su importancia
